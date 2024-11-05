@@ -13,6 +13,6 @@ This lab was designed to enhance my understanding of the computer back-up proces
 ### Tools Used
 
 - Windows 10
-- Windows Backup and Restore (Windows 2007)
+- Windows 7 Backup and Restore
 
 ## Steps
