@@ -16,3 +16,26 @@ This lab was designed to enhance my understanding of the computer back-up proces
 - Windows 7 Backup and Restore
 
 ## Steps
+The first step in this lab was to actually create the image of the Windows machine. To do this, we used a built-in tool for Windows 10 called Windows 7 Backup and Restore. To find this tool, one goes to the Windows Settings page, and then select Update and Security. From here, one selects the Files Backup option from the menu on the left hand side. Finally, the user selects 'Go to Backup and Restore (Windows 7)' just below the 'Looking for an older backup?' subtitle. 
+
+<div>
+  <img src="./lab_images/BackupSettings.png" alt="Windows Backup Lab Image" width="600" height="500">
+
+  *Ref. 1: The link which takes the user to the Backup and Restore tool in the Windows 10 settings page*
+</div>
+
+Once the tool had been selected and identified, we then had to use it to create the backup. In this instance, we had an external drive already connected to our laptop via USB, and it was to this drive that we saved the image of our PC. To start this process, the user selects the 'Create a system image' link on the top left-hand side of the new Backup and Restore window. 
+
+<div>
+  <img src="./lab_images/CreateASystemBackup.png" alt="Windows Backup Lab Image" width="1400" height="400">
+
+  *Ref. 2: An image of the Backup and Restore tool user interface*
+</div>
+
+After selecting the appropriate option, the Backup tool will scan your PC, specifically looking for suitable backup drives to which it might save the system image. There may be several different options depending on the system, including a network share, physical drive, or even a DVD. In my case, I simply selected the physical drive option, and navigated to the external drive that I had connected for this lab. 
+
+<div>
+  <img src="./lab_images/SelectingSaveLocation.png" alt="Windows Backup Lab Image" width="600" height="600">
+
+  *Ref. 3: The menu for selecting the save location for the system image*
+</div>
