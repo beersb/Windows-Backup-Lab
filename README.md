@@ -39,3 +39,19 @@ After selecting the appropriate option, the Backup tool will scan your PC, speci
 
   *Ref. 3: The menu for selecting the save location for the system image*
 </div>
+
+Next, we needed to select all of the drives we wished to include in our backup. In this instance, the defualt (which included all internal drives) was quite suitable, and so we simply clicked the next button to move onto the final step of the backup/image creation process, confirmation. The confirmation page displayed each of the drives to be included in the backup, and the external drive to which the backup would be saved, and asked us to confirm that we wished to proceed with the image creation process by clicking the 'Start backup' button. 
+
+<div>
+  <img src="./lab_images/BackupConfirmation.png" alt="Windows Backup Lab Image" width="700" height="600">
+
+  *Ref. 4: An image of the image creation confirmation screen*
+</div>
+
+At this stage, we simply clicked the button and began the process, which took about an hour to complete. 
+
+<div>
+  <img src="./lab_images/CreatingBackup.png" alt="Windows Backup Lab Image" width="700" height="400">
+
+  *Ref. 5: A window tracking the progress of the system image creation*
+</div>
