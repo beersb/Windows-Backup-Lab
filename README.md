@@ -5,10 +5,10 @@ This lab was designed to enhance my understanding of the computer back-up proces
 
 ### Skills Learned
 
-- Developed a hands-on understanding of creating a Windows image and restoring from this image
+- Developed a hands-on understanding of creating a Windows image and then restoring a machine using the image
 - Strengthened ability to respond to both cybersecurity events, such as ransomware incidents, as well as general system failures
 - Improved general IT knowledge and understanding of the Windows operating system
-- Development of critical thinking and problem-solving skills in Information Technology
+- Augmented critical thinking and problem-solving skills in Information Technology
 
 ### Tools Used
 
